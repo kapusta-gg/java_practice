@@ -1,7 +1,8 @@
-package test;
+package prac4.task2;
 
-public class Example {
+public class Main {
+
     public static void main(String[] args) {
-        
+
     }
 }
