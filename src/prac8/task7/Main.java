@@ -1,4 +1,4 @@
-package prac9.task7;
+package prac8.task7;
 
 import java.util.Scanner;
 
